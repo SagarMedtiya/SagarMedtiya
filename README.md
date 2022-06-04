@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 📫 How to reach me **sagarmedtiya@gmail.com**
+- 📫 How to reach me **sagarmedtiya31@gmail.com**
 
 - ⚡ Fun fact **I binge-watch animes, movies and sometimes even read manga!**
 
