@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full-Stack web development and Open Source Contributor.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently mastering **Data Structures and Algorithms**
 
 - 📫 How to reach me **sagarmedtiya31@gmail.com**
 
