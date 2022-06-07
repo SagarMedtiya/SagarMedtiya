@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarmedtiya&label=Profile%20views&color=0e75b6&style=flat" alt="sagarmedtiya" /> </p>
 
-- 🔭 I’m currently working on **Full-Stack web development and Open Source Contribution.**
+- 🔭 I’m currently working on **Full-Stack web development and Open Source Contributor.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
