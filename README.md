@@ -35,6 +35,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarmedtiya&show_icons=true&locale=en&layout=compact" alt="sagarmedtiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarmedtiya&" alt="sagarmedtiya" /></p>
-
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
