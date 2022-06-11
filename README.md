@@ -1,4 +1,4 @@
-<h1 align="center">Hello world, I'm Sagar Medtiya!</h1>
+<h1 align="center">Hello world🖐️, I'm Sagar Medtiya!</h1>
 <h3 align="center">Glad to see you here.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarmedtiya&label=Profile%20views&color=0e75b6&style=flat" alt="sagarmedtiya" /> </p>
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I binge-watch animes, movies and sometimes even read manga!**
 
-<h3 align="left">Connect with me:</h3>
+###<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sagar-medtiya-8a223716a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-medtiya-8a223716a" height="30" width="40" /></a>
 <a href="https://instagram.com/sagar_medtiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar_medtiya" height="30" width="40" /></a>
@@ -31,7 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=SagarMedtiya&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SagarMedtiya&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarMedtiya&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-### Blogs posts
+### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
