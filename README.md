@@ -31,7 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=SagarMedtiya&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SagarMedtiya&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarMedtiya&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-### Latest Blogs posts
+### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
