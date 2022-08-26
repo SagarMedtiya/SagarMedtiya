@@ -14,11 +14,11 @@
 - ⚡ Fun fact **I binge-watch animes, movies and sometimes even read manga!**
 ### 📃Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Component Lifecycle🌀 in ReactJS🚀](https://blog.sagarmedtiya.me/component-lifecycle-in-reactjs)
 - [Know Your JavaScript🤌](https://blog.sagarmedtiya.me/know-your-javascript)
 - [🤞Understanding Promises in JavaScript🚀](https://blog.sagarmedtiya.me/understanding-promises-in-javascript)
 - [Understanding the basics of React Hooks🪝](https://blog.sagarmedtiya.me/understanding-the-basics-of-react-hooks)
 - [🎉Deploy MERN app to ⚛️ Heroku with 🐳 Docker🚀🚀](https://blog.sagarmedtiya.me/deploy-mern-app-to-heroku-with-docker)
-- [✅Docker&#39;s Tutorial📃](https://blog.sagarmedtiya.me/dockers-tutorial)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🔗Connect with me:</h3>
