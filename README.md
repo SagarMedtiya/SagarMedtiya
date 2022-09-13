@@ -14,11 +14,11 @@
 - ⚡ Fun fact **I binge-watch animes, movies and sometimes even read manga!**
 ### 📃Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [✅𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐄𝐯𝐞𝐧𝐭s  𝐢𝐧 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭](https://blog.sagarmedtiya.me/s)
 - [𝐒𝐩𝐫𝐞𝐚𝐝 𝐚𝐧𝐝 𝐑𝐞𝐬𝐭 𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫 101🚀](https://blog.sagarmedtiya.me/101)
 - [10 𝐆𝐢𝐭𝐇𝐮𝐛 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬 𝐭𝐨 𝐌𝐚𝐤𝐞 𝐲𝐨𝐮 𝐚 10𝐱 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 🤩](https://blog.sagarmedtiya.me/10-10)
 - [Automate your workflow with GitHub Actions🤖](https://blog.sagarmedtiya.me/automate-your-workflow-with-github-actions)
 - [Meet my latest project, I built User Authentication using Passport.js and Bcrypt🎉](https://blog.sagarmedtiya.me/meet-my-latest-project-i-built-user-authentication-using-passportjs-and-bcrypt)
-- [Understanding React🚀-Redux and using Redux Toolkit🚀](https://blog.sagarmedtiya.me/understanding-react-redux-and-using-redux-toolkit)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🔗Connect with me:</h3>
