@@ -14,11 +14,11 @@
 - ⚡ Fun fact **I binge-watch animes, movies and sometimes even read manga!**
 ### 📃Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Install and Manage Multiple Versions of Node.js by NVM✅](https://blog.sagarmedtiya.me/install-and-manage-multiple-versions-of-nodejs-by-nvm)
 - [Webhooks](https://blog.sagarmedtiya.me/webhooks)
 - [How to create simple RESTful API in node.js🚀✅](https://blog.sagarmedtiya.me/how-to-create-simple-restful-api-in-nodejs)
 - [𝐓𝐡𝐞 𝟐𝟏𝐬𝐭 𝐜𝐞𝐧𝐭𝐮𝐫𝐲’𝐬 𝐦𝐨𝐬𝐭 𝐢𝐧-𝐝𝐞𝐦𝐚𝐧𝐝 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥𝐬🐱‍💻](https://blog.sagarmedtiya.me/8j2qkcdkkhwnzceipcdn5dwnzp8j2qrpcdkk0g8j2qnpcdkj7wnzcn8j2qrfcdkk7wnzcr8j2qsukamfcdkkwg8j2qpvcdkkjwnzcs8j2qrsdwnzci8j2qpy3wnzcd8j2qnvcdkkbwnzca8j2qpcdkj0g8j2qqfcdkkvwnzco8j2qncdkj7wnzcs8j2qrpcdkklwnzco8j2qpcdkjrwnzcl8j2qrpcfklhigi3wn5k7)
 - [The Uses of DSA in Real Life🤓](https://blog.sagarmedtiya.me/the-uses-of-dsa-in-real-life)
+- [✅𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐄𝐯𝐞𝐧𝐭s  𝐢𝐧 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭](https://blog.sagarmedtiya.me/s)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🔗Connect with me:</h3>
