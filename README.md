@@ -14,11 +14,11 @@
 - ⚡ Fun fact **I binge-watch animes, movies and sometimes even read manga!**
 ### 📃Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn PL/SQL with me🍀](https://blog.sagarmedtiya.me/learn-plsql-with-me)
 - [Tree Data Structure in C++](https://blog.sagarmedtiya.me/tree-data-structure-in-c)
 - [Socket.io](https://blog.sagarmedtiya.me/socketio)
 - [🛣️Roadmap of becoming Full Stack Web Developer](https://blog.sagarmedtiya.me/roadmap-of-becoming-full-stack-web-developer)
 - [🚀C++ Standard Template Library](https://blog.sagarmedtiya.me/c-standard-template-library)
-- [Learn to connect your React and Express app using axios✅](https://blog.sagarmedtiya.me/learn-to-connect-your-react-and-express-app-using-axios)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🔗Connect with me:</h3>
