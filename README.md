@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently mastering **Data Structures and Algorithms**
 
-- 📄 Portfolio Link [https://www.sagarmedtiya.com](https://sagarmedtiya.com)
+- 📄 Portfolio Link [sagarmedtiya.com](https://sagarmedtiya.com)
 
 - 📫 How to reach me **sagarmedtiya31@gmail.com**
 
