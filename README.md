@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sagarmedtiya31@gmail.com**
 
-- ⚡ Fun fact **I binge-watch animes, movies and sometimes even read manga!**
+- ⚡ **Like to binge-watch animes, movies and sometimes even read manga!**
 ### 📃Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Learn PL/SQL with me🍀](https://blog.sagarmedtiya.com/learn-plsql-with-me)
