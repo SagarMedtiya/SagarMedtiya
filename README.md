@@ -14,11 +14,11 @@
 - ⚡ **Like to binge-watch animes, movies and sometimes even read manga!**
 ### 📃Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [UML Diagram✨✨](https://blog.sagarmedtiya.com/uml-diagram)
 - [Learn PL/SQL with me🍀](https://blog.sagarmedtiya.com/learn-plsql-with-me)
 - [Tree Data Structure in C++](https://blog.sagarmedtiya.com/tree-data-structure-in-c)
 - [Socket.io](https://blog.sagarmedtiya.com/socketio)
 - [🛣️Roadmap of becoming Full Stack Web Developer](https://blog.sagarmedtiya.com/roadmap-of-becoming-full-stack-web-developer)
+- [🚀C++ Standard Template Library](https://blog.sagarmedtiya.com/c-standard-template-library)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🔗Connect with me:</h3>
